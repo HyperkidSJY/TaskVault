@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913696530981",
+    "project_id": "taskvault-e6c6b",
+    "storage_bucket": "taskvault-e6c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913696530981:android:f92c2aa3d1e808f24095cc",
+        "android_client_info": {
+          "package_name": "com.hyper.taskvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx7cq1oTJ8A-x7_oN9Aj7r8-jx5Rlm8EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
